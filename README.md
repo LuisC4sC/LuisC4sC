@@ -5,6 +5,8 @@
  
  <h2>About Me</h2>
 
+[![LuisC4sC GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisC4sC)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
