@@ -2,6 +2,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/87400898/131047882-f9e96eb1-bcc8-4f89-a875-d9893b742166.gif" width="50%">
 
  <p>Programming student 💻 <br>Freelance web developer 💡</p>
+ 
+ <h2>About Me</h2>
 
 
 
