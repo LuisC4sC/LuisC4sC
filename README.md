@@ -3,9 +3,13 @@
 
  <p>Programming student 💻 <br>Freelance web developer 💡</p>
  
- <h2>About Me</h2>
+ ## About Me
+ <p>Estudiante de programacion</p>
+ 
+ <a href="https://instagram.com/__l.u.i.s___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__l.u.i.s___" height="30" width="40" /></a>
 
-[![LuisC4sC GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisC4sC)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
