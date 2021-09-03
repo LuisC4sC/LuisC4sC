@@ -4,7 +4,7 @@
  <p align="center"><em>Programming student 💻 <br>Freelance web developer 🧑‍💻</em></p>
  
  ## About Me
- <p>Programming student, currently in the 5th semester of high school.Passionate about web design.</p>
+ <p>Programming student, currently in the 5th semester of high school.Passionate about web development.</p>
  <ul >
  <li>🇲🇽 Mexican</li>
  <li> 1️⃣7️⃣ years old</li>
